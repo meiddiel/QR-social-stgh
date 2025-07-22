@@ -1,0 +1,15 @@
+{
+  "name": "qr-redirect-project",
+  "version": "1.0.0",
+  "description": "A project that generates QR codes redirecting users to LinkedIn or Facebook.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "dependencies": {
+    "qrcode-generator": "^1.4.4"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
